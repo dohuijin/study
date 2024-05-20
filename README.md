@@ -1,1 +1,1 @@
-## KT_AIVLE_School 학습기록
+## 학습기록
